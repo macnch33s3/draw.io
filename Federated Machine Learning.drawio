@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="THVUXLUAPRuHUd8sM5LI">
-    <mxGraphModel dx="841" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1430" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,9 +41,6 @@
         <mxCell id="9wepOmyHBJnFKQ0IWQCW-51" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.phone;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="320" width="41.3" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="9wepOmyHBJnFKQ0IWQCW-63" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="410" y="190" width="50" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="9wepOmyHBJnFKQ0IWQCW-64" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.phone;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="220" width="41.3" height="70" as="geometry" />
         </mxCell>
@@ -64,6 +61,27 @@
         </mxCell>
         <mxCell id="9wepOmyHBJnFKQ0IWQCW-80" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6.551724137931103;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="90.65" y="40" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9wepOmyHBJnFKQ0IWQCW-82" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="9wepOmyHBJnFKQ0IWQCW-83" target="9wepOmyHBJnFKQ0IWQCW-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9wepOmyHBJnFKQ0IWQCW-83" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#B3B3B3;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cloud;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="550" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9wepOmyHBJnFKQ0IWQCW-84" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.phone;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="143.45" y="515" width="94.4" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="9wepOmyHBJnFKQ0IWQCW-85" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6.551724137931103;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="156" y="527" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9wepOmyHBJnFKQ0IWQCW-91" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#B3B3B3;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cloud;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="945" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9wepOmyHBJnFKQ0IWQCW-92" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.phone;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="740" width="94.4" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="9wepOmyHBJnFKQ0IWQCW-93" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6.551724137931103;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="156" y="922" width="20" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
