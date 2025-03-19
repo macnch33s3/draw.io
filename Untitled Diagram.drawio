@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Fehler-&amp;Ereignisdiagramm">
-    <mxGraphModel dx="1979" dy="1810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1787" dy="1703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -374,7 +374,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="X7wGNsn9RejRAI7DlH7f-159" value="Ja (p=0.8)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="X7wGNsn9RejRAI7DlH7f-156">
+        <mxCell id="X7wGNsn9RejRAI7DlH7f-159" value="Ja (p=0.3)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="X7wGNsn9RejRAI7DlH7f-156">
           <mxGeometry x="0.7859" y="1" relative="1" as="geometry">
             <mxPoint x="-19" as="offset" />
           </mxGeometry>
@@ -388,7 +388,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="X7wGNsn9RejRAI7DlH7f-160" value="Nein (p=0.2)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="X7wGNsn9RejRAI7DlH7f-157">
+        <mxCell id="X7wGNsn9RejRAI7DlH7f-160" value="Nein (p=0.7)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="X7wGNsn9RejRAI7DlH7f-157">
           <mxGeometry x="0.6929" y="-1" relative="1" as="geometry">
             <mxPoint x="-46" as="offset" />
           </mxGeometry>
@@ -402,7 +402,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="X7wGNsn9RejRAI7DlH7f-163" value="Ja (p= )" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="X7wGNsn9RejRAI7DlH7f-161">
+        <mxCell id="X7wGNsn9RejRAI7DlH7f-163" value="Ja (p= 0.8)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="X7wGNsn9RejRAI7DlH7f-161">
           <mxGeometry x="0.4248" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -416,7 +416,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="X7wGNsn9RejRAI7DlH7f-164" value="Nein (p= )" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="X7wGNsn9RejRAI7DlH7f-162">
+        <mxCell id="X7wGNsn9RejRAI7DlH7f-164" value="Nein (p= 0.2)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="X7wGNsn9RejRAI7DlH7f-162">
           <mxGeometry x="0.3262" y="2" relative="1" as="geometry">
             <mxPoint x="5" y="2" as="offset" />
           </mxGeometry>
@@ -430,7 +430,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="X7wGNsn9RejRAI7DlH7f-168" value="Ja (p= )" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="X7wGNsn9RejRAI7DlH7f-165">
+        <mxCell id="X7wGNsn9RejRAI7DlH7f-168" value="Ja (p= 0.8)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="X7wGNsn9RejRAI7DlH7f-165">
           <mxGeometry x="0.4252" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -444,7 +444,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="X7wGNsn9RejRAI7DlH7f-169" value="Nein (p= )" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="X7wGNsn9RejRAI7DlH7f-166">
+        <mxCell id="X7wGNsn9RejRAI7DlH7f-169" value="Nein (p= 0.2)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="X7wGNsn9RejRAI7DlH7f-166">
           <mxGeometry x="0.3926" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
