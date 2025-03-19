@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Fehler-&amp;Ereignisdiagramm">
-    <mxGraphModel dx="2747" dy="2237" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1486" dy="1970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -447,9 +447,6 @@
         <mxCell id="X7wGNsn9RejRAI7DlH7f-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="X7wGNsn9RejRAI7DlH7f-213" target="X7wGNsn9RejRAI7DlH7f-212">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="X7wGNsn9RejRAI7DlH7f-218" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="X7wGNsn9RejRAI7DlH7f-13" target="X7wGNsn9RejRAI7DlH7f-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="X7wGNsn9RejRAI7DlH7f-219" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="X7wGNsn9RejRAI7DlH7f-14" target="X7wGNsn9RejRAI7DlH7f-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -466,6 +463,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X7wGNsn9RejRAI7DlH7f-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="X7wGNsn9RejRAI7DlH7f-192" target="X7wGNsn9RejRAI7DlH7f-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X7wGNsn9RejRAI7DlH7f-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="X7wGNsn9RejRAI7DlH7f-13" target="X7wGNsn9RejRAI7DlH7f-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
