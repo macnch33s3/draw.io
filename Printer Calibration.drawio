@@ -1,11 +1,60 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.2">
   <diagram name="Page-1" id="ysQC3K4wVMz-czEehuse">
-    <mxGraphModel dx="984" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="826" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="E9BAfUt0JOUPIQPkDFlf-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="" vertex="1">
-          <mxGeometry height="60" width="100" x="190" y="40" as="geometry" />
+        <mxCell id="_YDCnOvCJmNK7jWMRylc-14" edge="1" parent="1" source="E9BAfUt0JOUPIQPkDFlf-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_YDCnOvCJmNK7jWMRylc-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E9BAfUt0JOUPIQPkDFlf-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="Start&lt;br&gt;Kalibrations Prozess" vertex="1">
+          <mxGeometry height="60" width="100" x="350" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_YDCnOvCJmNK7jWMRylc-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Ist der Rahmen ein Rechteck?" vertex="1">
+          <mxGeometry height="70" width="100" x="620" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="_YDCnOvCJmNK7jWMRylc-5" edge="1" parent="1" source="_YDCnOvCJmNK7jWMRylc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="E9BAfUt0JOUPIQPkDFlf-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="390" />
+              <mxPoint x="250" y="70" />
+            </Array>
+            <mxPoint x="310" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_YDCnOvCJmNK7jWMRylc-6" connectable="0" parent="_YDCnOvCJmNK7jWMRylc-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Nein" vertex="1">
+          <mxGeometry relative="1" x="-0.0964" y="1" as="geometry">
+            <mxPoint y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_YDCnOvCJmNK7jWMRylc-3" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;" value="Drucker im Referenzzustand (Mechanik montiert, keine Defekte)?" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="_YDCnOvCJmNK7jWMRylc-9" edge="1" parent="1" source="_YDCnOvCJmNK7jWMRylc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_YDCnOvCJmNK7jWMRylc-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_YDCnOvCJmNK7jWMRylc-11" edge="1" parent="1" source="_YDCnOvCJmNK7jWMRylc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_YDCnOvCJmNK7jWMRylc-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="280" />
+              <mxPoint x="290" y="170" />
+            </Array>
+            <mxPoint x="290" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_YDCnOvCJmNK7jWMRylc-12" connectable="0" parent="_YDCnOvCJmNK7jWMRylc-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Nein" vertex="1">
+          <mxGeometry relative="1" x="0.1975" as="geometry">
+            <mxPoint y="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_YDCnOvCJmNK7jWMRylc-7" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;" value="Ist der Rahmen rechteckig?" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="_YDCnOvCJmNK7jWMRylc-15" edge="1" parent="1" source="_YDCnOvCJmNK7jWMRylc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_YDCnOvCJmNK7jWMRylc-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_YDCnOvCJmNK7jWMRylc-13" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;" value="Rahmen montieren und&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
