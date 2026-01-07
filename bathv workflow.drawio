@@ -176,6 +176,17 @@
         <mxCell id="bX0o2ZwOyocGqXKeREbU-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Elaborate on this one further" vertex="1">
           <mxGeometry height="60" width="200" x="1740" y="-839" as="geometry" />
         </mxCell>
+        <mxCell id="bX0o2ZwOyocGqXKeREbU-32" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Detailed Check Printer Setup" vertex="1">
+          <mxGeometry height="100" width="900" x="100" y="-950" as="geometry">
+            <mxRectangle height="30" width="200" x="-1100" y="2000" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bX0o2ZwOyocGqXKeREbU-33" parent="bX0o2ZwOyocGqXKeREbU-32" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#333333;" value="1. Hardware Setup" vertex="1">
+          <mxGeometry height="30" width="900" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bX0o2ZwOyocGqXKeREbU-34" parent="bX0o2ZwOyocGqXKeREbU-32" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#333333;" value="Unpack Printer &amp; Components" vertex="1">
+          <mxGeometry height="40" width="900" y="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
