@@ -1,0 +1,45 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.0">
+  <diagram name="Page-1" id="rqmSeHN5uvR6kLEFAryO">
+    <mxGraphModel dx="1494" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RbWtM5M9MT43DpyoGzmO-1" edge="1" parent="1" source="RbWtM5M9MT43DpyoGzmO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="RbWtM5M9MT43DpyoGzmO-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Dr. Daniel Omidvarkarjan" Name="Dr. Daniel Omidvarkarjan" Role="Auftraggeber / Betreuer" Parent="OST" Style="shape=rounded;fillColor=#dae8fc;strokeColor=#6c8ebf" undefined="" placeholders="1" id="RbWtM5M9MT43DpyoGzmO-2">
+          <mxCell parent="1" style="whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="30" width="160" x="355" y="230" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="RbWtM5M9MT43DpyoGzmO-3" edge="1" parent="1" source="RbWtM5M9MT43DpyoGzmO-4" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="435" y="295" />
+            </Array>
+            <mxPoint x="435.00000000000006" y="285.0322580645161" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Frank Ehrig" Name="Frank Ehrig" Role="Institutsleiter IWK" Parent="OST" Style="shape=rounded;fill" placeholders="1" id="RbWtM5M9MT43DpyoGzmO-4">
+          <mxCell parent="1" style="whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="30" width="90" x="300" y="280" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Marc Kressig" Name="Frank Ehrig" Role="Institutsleiter IWK" Parent="OST" Style="shape=rounded;fill" placeholders="1" id="RbWtM5M9MT43DpyoGzmO-5">
+          <mxCell parent="1" style="whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="30" width="90" x="390" y="320" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="RbWtM5M9MT43DpyoGzmO-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="Auftraggeber" vertex="1">
+          <mxGeometry height="30" width="60" x="539" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="RbWtM5M9MT43DpyoGzmO-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="Auftragnehmer" vertex="1">
+          <mxGeometry height="30" width="60" x="539" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="RbWtM5M9MT43DpyoGzmO-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="Institutsleitung" vertex="1">
+          <mxGeometry height="30" width="60" x="539" y="280" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
