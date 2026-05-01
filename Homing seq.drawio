@@ -29,26 +29,32 @@
         <mxCell id="OfSOKdOp4lEXuzvbgccy-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Calibrate C" vertex="1">
           <mxGeometry height="60" width="120" x="354" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="OfSOKdOp4lEXuzvbgccy-9" edge="1" parent="1" source="OfSOKdOp4lEXuzvbgccy-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OfSOKdOp4lEXuzvbgccy-8" value="">
+        <mxCell id="OfSOKdOp4lEXuzvbgccy-19" edge="1" parent="1" source="OfSOKdOp4lEXuzvbgccy-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OfSOKdOp4lEXuzvbgccy-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OfSOKdOp4lEXuzvbgccy-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Calibrate X" vertex="1">
+        <mxCell id="OfSOKdOp4lEXuzvbgccy-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Calibrate X/Y" vertex="1">
           <mxGeometry height="60" width="120" x="354" y="320" as="geometry" />
-        </mxCell>
-        <mxCell id="OfSOKdOp4lEXuzvbgccy-11" edge="1" parent="1" source="OfSOKdOp4lEXuzvbgccy-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OfSOKdOp4lEXuzvbgccy-10" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OfSOKdOp4lEXuzvbgccy-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Calibrate Y" vertex="1">
-          <mxGeometry height="60" width="120" x="354" y="460" as="geometry" />
         </mxCell>
         <mxCell id="OfSOKdOp4lEXuzvbgccy-13" edge="1" parent="1" source="OfSOKdOp4lEXuzvbgccy-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OfSOKdOp4lEXuzvbgccy-12" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="OfSOKdOp4lEXuzvbgccy-22" edge="1" parent="1" source="OfSOKdOp4lEXuzvbgccy-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OfSOKdOp4lEXuzvbgccy-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OfSOKdOp4lEXuzvbgccy-25" edge="1" parent="1" source="OfSOKdOp4lEXuzvbgccy-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OfSOKdOp4lEXuzvbgccy-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OfSOKdOp4lEXuzvbgccy-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Calibrate A und Z again" vertex="1">
-          <mxGeometry height="60" width="120" x="354" y="600" as="geometry" />
+          <mxGeometry height="60" width="120" x="354" y="460" as="geometry" />
         </mxCell>
         <mxCell id="OfSOKdOp4lEXuzvbgccy-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Go to Homing Position above bed" vertex="1">
-          <mxGeometry height="60" width="120" x="354" y="740" as="geometry" />
+          <mxGeometry height="60" width="120" x="354" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="OfSOKdOp4lEXuzvbgccy-26" edge="1" parent="1" source="OfSOKdOp4lEXuzvbgccy-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OfSOKdOp4lEXuzvbgccy-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OfSOKdOp4lEXuzvbgccy-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="choose T1 and set its offsets" vertex="1">
+          <mxGeometry height="60" width="120" x="500" y="580" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
