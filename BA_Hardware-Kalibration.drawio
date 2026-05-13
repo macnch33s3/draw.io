@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
-    <mxGraphModel dx="1325" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="365" dy="851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -249,7 +249,7 @@
             <mxPoint x="-7" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6Rv4Ys9wquxRduYXBmIy-11" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;strokeColor=default;verticalAlign=middle;fontColor=default;fillColor=default;" value="Drucker-Rahmen rechtwinklig und gerade ausgerichtet?" vertex="1">
+        <mxCell id="6Rv4Ys9wquxRduYXBmIy-11" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;strokeColor=default;verticalAlign=middle;fontColor=default;fillColor=default;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 7px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Druckerrahmen wurde rechtwinklig und plan ausgerichtet&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="200" y="290" as="geometry" />
         </mxCell>
         <mxCell id="6Rv4Ys9wquxRduYXBmIy-12" parent="1" style="shape=stencil(lZfbbtswDIafxreEJOp43XXvUaDpEixLijQ7vf3oGfJC2v6N3TnOR5lnUgM/fRxf3g9DcB/32/Xr4efp9X4c+NMQwulyPNxOd3ka+Hngp7fr7fDldv1+eZ1+v7+M5Pj07fpjPOHXJBcp5FEouN/Ti5ypxb9vPk/8+XR54AtFVnzxVHmb955K0QKFfAYChbL+QmWKbVtATPDahNqIgQA7ClUJNKbqgUCiGLRAIu+2BaIj57VA6EesCyRyTduQqACB5Ckl7VaJJIhDapS1SqlSAl7KlYr2UvTUgJdKparjEFI/YlWgVvLaaEkWlHstU9IqOfiBVshlwzOwQPicDO8S4KtNpDnuW3y1fEB8o+gMnzFvQubJI/80apavoDSXfOgB2dRH1z73brPFczN8BUUw+lOfLzWAedPsIsWdfIiG54LzLRneo/MX+cz9g1t8SIZ3oOaF97pvBeId3hQkZeTPTNHWS0P+yVSb4SOqLxk20fDQn5VcMbwDbVr4bPXxyN5GweoTcT5nq0/bqUe2/kez1c32PQQYJVCzLVoSCPMpGj6jgP0v74m1/j5SBh6twc7JUOGsL4GC/kKMsAYy220iS9CADSnZIiuS5mg5EI111cu+gsp4nLtaJSkMDwQ49kE9u9XhShAvGr/KJ5DVkplxsUOh1JPAJu2mWohRqPvomnnX3bBudD9tDsO8U63yrrf+mRcXgeKX1qBTOzfYvBalKQsVGmZrPBrerqfAzJe+Em7wZraOiz5o1s7ObuHRGu77+vnAo2Yq9wJTZ6lvR+sZRxwWPEppO2t2zme744/6g/N5cX6Gw0BWk4U/0bK7fzGTh3+3urfT+TxdCh//t7dAeTXdIPn5Dw==);lineShape=1;strokeColor=default;" value="" vertex="1">
