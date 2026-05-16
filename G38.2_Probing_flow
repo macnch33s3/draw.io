@@ -1,23 +1,23 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="ei9_2OAnqHWLAyUw3fHy">
-    <mxGraphModel dx="225534" dy="143402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="72007" dy="45370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qOBfl7NPI39WddQ5hIr8-33" edge="1" parent="1" source="qOBfl7NPI39WddQ5hIr8-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;" target="qOBfl7NPI39WddQ5hIr8-23" />
-        <mxCell id="qOBfl7NPI39WddQ5hIr8-34" edge="1" parent="1" source="qOBfl7NPI39WddQ5hIr8-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;" target="qOBfl7NPI39WddQ5hIr8-24" />
-        <mxCell id="qOBfl7NPI39WddQ5hIr8-35" edge="1" parent="1" source="qOBfl7NPI39WddQ5hIr8-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;" target="qOBfl7NPI39WddQ5hIr8-25" />
-        <mxCell id="qOBfl7NPI39WddQ5hIr8-36" edge="1" parent="1" source="qOBfl7NPI39WddQ5hIr8-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;" target="qOBfl7NPI39WddQ5hIr8-26" />
-        <mxCell id="qOBfl7NPI39WddQ5hIr8-37" edge="1" parent="1" source="qOBfl7NPI39WddQ5hIr8-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;" target="qOBfl7NPI39WddQ5hIr8-27">
+        <mxCell id="qOBfl7NPI39WddQ5hIr8-33" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;" />
+        <mxCell id="qOBfl7NPI39WddQ5hIr8-34" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;" />
+        <mxCell id="qOBfl7NPI39WddQ5hIr8-35" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;" />
+        <mxCell id="qOBfl7NPI39WddQ5hIr8-36" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;" />
+        <mxCell id="qOBfl7NPI39WddQ5hIr8-37" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;">
           <mxGeometry height="20" width="20" x="20" y="20" as="relative" />
         </mxCell>
-        <mxCell id="qOBfl7NPI39WddQ5hIr8-38" edge="1" parent="1" source="qOBfl7NPI39WddQ5hIr8-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;" target="qOBfl7NPI39WddQ5hIr8-28" />
-        <mxCell id="qOBfl7NPI39WddQ5hIr8-39" edge="1" parent="1" source="qOBfl7NPI39WddQ5hIr8-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;" target="qOBfl7NPI39WddQ5hIr8-29" />
-        <mxCell id="qOBfl7NPI39WddQ5hIr8-40" edge="1" parent="1" source="qOBfl7NPI39WddQ5hIr8-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;" target="qOBfl7NPI39WddQ5hIr8-30">
+        <mxCell id="qOBfl7NPI39WddQ5hIr8-38" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;" />
+        <mxCell id="qOBfl7NPI39WddQ5hIr8-39" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;" />
+        <mxCell id="qOBfl7NPI39WddQ5hIr8-40" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;">
           <mxGeometry height="20" width="20" x="-20" y="20" as="relative" />
         </mxCell>
-        <mxCell id="qOBfl7NPI39WddQ5hIr8-41" edge="1" parent="1" source="qOBfl7NPI39WddQ5hIr8-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;" target="qOBfl7NPI39WddQ5hIr8-31" />
-        <mxCell id="qOBfl7NPI39WddQ5hIr8-42" edge="1" parent="1" source="qOBfl7NPI39WddQ5hIr8-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;" target="qOBfl7NPI39WddQ5hIr8-32" />
+        <mxCell id="qOBfl7NPI39WddQ5hIr8-41" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;" />
+        <mxCell id="qOBfl7NPI39WddQ5hIr8-42" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;" />
         <mxCell id="qOBfl7NPI39WddQ5hIr8-56" edge="1" parent="1" source="qOBfl7NPI39WddQ5hIr8-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qOBfl7NPI39WddQ5hIr8-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -42,16 +42,14 @@
         <mxCell id="qOBfl7NPI39WddQ5hIr8-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="G38.2 laterales probing der C-Achse" vertex="1">
           <mxGeometry height="50" width="160" x="-27770" y="-17310" as="geometry" />
         </mxCell>
-        <mxCell id="qOBfl7NPI39WddQ5hIr8-60" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qOBfl7NPI39WddQ5hIr8-48">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-27730" y="-17220" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qOBfl7NPI39WddQ5hIr8-61" edge="1" parent="1" source="qOBfl7NPI39WddQ5hIr8-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qOBfl7NPI39WddQ5hIr8-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qOBfl7NPI39WddQ5hIr8-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Taster ausgelöst?" vertex="1">
-          <mxGeometry height="40" width="120" x="-27750" y="-17240" as="geometry" />
+        <mxCell id="WQOzDbXvXOV6S01ZhUKP-1" edge="1" parent="1" source="qOBfl7NPI39WddQ5hIr8-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qOBfl7NPI39WddQ5hIr8-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qOBfl7NPI39WddQ5hIr8-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;shape=mxgraph.flowchart.decision;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="Taster ausgelöst?" vertex="1">
+          <mxGeometry height="70" width="130" x="-27750" y="-17240" as="geometry" />
         </mxCell>
         <mxCell id="qOBfl7NPI39WddQ5hIr8-63" edge="1" parent="1" source="qOBfl7NPI39WddQ5hIr8-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qOBfl7NPI39WddQ5hIr8-49">
           <mxGeometry relative="1" as="geometry" />
