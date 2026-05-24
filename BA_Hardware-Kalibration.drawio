@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
-    <mxGraphModel dx="1874" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2847" dy="1110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -325,26 +325,61 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_VjE9AJelsqWNRG-cR2B-48" edge="1" parent="1" source="_VjE9AJelsqWNRG-cR2B-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="_VjE9AJelsqWNRG-cR2B-47" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_VjE9AJelsqWNRG-cR2B-49" connectable="0" parent="_VjE9AJelsqWNRG-cR2B-48" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;strokeColor=default;strokeWidth=1;arcSize=14;absoluteArcSize=1;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="T2" vertex="1">
+          <mxGeometry relative="1" x="-0.2857" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_VjE9AJelsqWNRG-cR2B-31" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;strokeColor=default;align=center;verticalAlign=middle;arcSize=14;absoluteArcSize=1;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="Werkzeug?" vertex="1">
-          <mxGeometry height="100" width="200" x="160" y="810" as="geometry" />
+          <mxGeometry height="100" width="160" x="180" y="800" as="geometry" />
         </mxCell>
         <mxCell id="_VjE9AJelsqWNRG-cR2B-32" edge="1" parent="1" source="_VjE9AJelsqWNRG-cR2B-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="_VjE9AJelsqWNRG-cR2B-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_VjE9AJelsqWNRG-cR2B-33" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=1;rounded=1;arcSize=14;absoluteArcSize=1;" value="T1: Düse vorheizen" vertex="1">
-          <mxGeometry height="50" width="120" x="430" y="835" as="geometry" />
+        <mxCell id="_VjE9AJelsqWNRG-cR2B-53" edge="1" parent="1" source="_VjE9AJelsqWNRG-cR2B-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="_VjE9AJelsqWNRG-cR2B-52" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_VjE9AJelsqWNRG-cR2B-33" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=1;rounded=1;arcSize=14;absoluteArcSize=1;" value="Filamentdruckkopf" vertex="1">
+          <mxGeometry height="50" width="120" x="400" y="825" as="geometry" />
         </mxCell>
         <mxCell id="_VjE9AJelsqWNRG-cR2B-36" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=1;rounded=1;arcSize=14;absoluteArcSize=1;" value="Druckbett" vertex="1">
-          <mxGeometry height="40" width="120" x="430" y="1000" as="geometry" />
+          <mxGeometry height="40" width="120" x="320" y="1160" as="geometry" />
         </mxCell>
-        <mxCell id="_VjE9AJelsqWNRG-cR2B-44" edge="1" parent="1" source="_VjE9AJelsqWNRG-cR2B-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="_VjE9AJelsqWNRG-cR2B-36">
+        <mxCell id="_VjE9AJelsqWNRG-cR2B-73" edge="1" parent="1" source="_VjE9AJelsqWNRG-cR2B-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="_VjE9AJelsqWNRG-cR2B-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_VjE9AJelsqWNRG-cR2B-74" edge="1" parent="1" source="_VjE9AJelsqWNRG-cR2B-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="_VjE9AJelsqWNRG-cR2B-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_VjE9AJelsqWNRG-cR2B-42" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;strokeColor=default;align=center;verticalAlign=middle;arcSize=14;absoluteArcSize=1;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="Bauplattform?" vertex="1">
-          <mxGeometry height="100" width="200" x="160" y="970" as="geometry" />
+          <mxGeometry height="100" width="160" x="180" y="1000" as="geometry" />
         </mxCell>
-        <mxCell id="_VjE9AJelsqWNRG-cR2B-43" edge="1" parent="1" source="_VjE9AJelsqWNRG-cR2B-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="_VjE9AJelsqWNRG-cR2B-42">
+        <mxCell id="_VjE9AJelsqWNRG-cR2B-45" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=1;rounded=1;arcSize=14;absoluteArcSize=1;" value="Fixtureplate" vertex="1">
+          <mxGeometry height="40" width="120" x="80" y="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="_VjE9AJelsqWNRG-cR2B-72" edge="1" parent="1" source="_VjE9AJelsqWNRG-cR2B-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="940" />
+              <mxPoint x="260" y="940" />
+            </Array>
+            <mxPoint x="260" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_VjE9AJelsqWNRG-cR2B-47" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=1;rounded=1;arcSize=14;absoluteArcSize=1;" value="Edge Finder Probe" vertex="1">
+          <mxGeometry height="50" width="120" x="10" y="825" as="geometry" />
+        </mxCell>
+        <mxCell id="_VjE9AJelsqWNRG-cR2B-52" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=1;rounded=1;arcSize=14;absoluteArcSize=1;" value="Düse auf Betriebstemp vorheizen" vertex="1">
+          <mxGeometry height="60" width="120" x="400" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="_VjE9AJelsqWNRG-cR2B-66" edge="1" parent="1" source="_VjE9AJelsqWNRG-cR2B-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="_VjE9AJelsqWNRG-cR2B-42">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_VjE9AJelsqWNRG-cR2B-75" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=1;rounded=1;arcSize=14;absoluteArcSize=1;" value="Edge Finder Probe" vertex="1">
+          <mxGeometry height="60" width="120" x="-380" y="825" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
