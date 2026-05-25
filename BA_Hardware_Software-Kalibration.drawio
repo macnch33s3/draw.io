@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
-    <mxGraphModel dx="2989" dy="1197" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2348" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -370,14 +370,14 @@
         <mxCell id="yzWLUrRVBPCjE_x2O5sb-10" edge="1" parent="1" source="_VjE9AJelsqWNRG-cR2B-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="140" y="940" />
+              <mxPoint x="120" y="940" />
               <mxPoint x="260" y="940" />
             </Array>
             <mxPoint x="260" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_VjE9AJelsqWNRG-cR2B-47" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=1;rounded=1;arcSize=14;absoluteArcSize=1;" value="Edge Finder Probe" vertex="1">
-          <mxGeometry height="50" width="120" x="80" y="835" as="geometry" />
+          <mxGeometry height="50" width="120" x="60" y="835" as="geometry" />
         </mxCell>
         <mxCell id="_VjE9AJelsqWNRG-cR2B-52" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=1;rounded=1;arcSize=14;absoluteArcSize=1;" value="Düse auf Betriebstemp vorheizen" vertex="1">
           <mxGeometry height="60" width="120" x="340" y="910" as="geometry" />
