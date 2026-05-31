@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
-    <mxGraphModel dx="1178" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
+    <mxGraphModel dx="1347" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -143,20 +143,11 @@
         <mxCell id="_VjE9AJelsqWNRG-cR2B-45" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=1;rounded=1;arcSize=14;absoluteArcSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Fixtureplate" vertex="1">
           <mxGeometry height="40" width="120" x="80" y="1185.33" as="geometry" />
         </mxCell>
-        <mxCell id="yzWLUrRVBPCjE_x2O5sb-10" edge="1" parent="1" source="_VjE9AJelsqWNRG-cR2B-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="120" y="985.33" />
-              <mxPoint x="260" y="985.33" />
-            </Array>
-            <mxPoint x="260" y="1045.33" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_VjE9AJelsqWNRG-cR2B-47" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=1;rounded=1;arcSize=14;absoluteArcSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Edge Finder Probe" vertex="1">
           <mxGeometry height="50" width="120" x="80" y="880.33" as="geometry" />
         </mxCell>
         <mxCell id="_VjE9AJelsqWNRG-cR2B-52" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=1;rounded=1;arcSize=14;absoluteArcSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Preheat nozzle to operating temp&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="120" x="320" y="955.33" as="geometry" />
+          <mxGeometry height="60" width="120" x="320" y="970" as="geometry" />
         </mxCell>
         <mxCell id="yzWLUrRVBPCjE_x2O5sb-14" edge="1" parent="1" source="-hY4OvKay7_CAMQPIOxO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-hY4OvKay7_CAMQPIOxO-3">
           <mxGeometry relative="1" as="geometry">
@@ -198,7 +189,7 @@
         <mxCell id="yzWLUrRVBPCjE_x2O5sb-9" edge="1" parent="1" source="_VjE9AJelsqWNRG-cR2B-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="_VjE9AJelsqWNRG-cR2B-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="260" y="985.33" />
+              <mxPoint x="260" y="1000" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -217,7 +208,7 @@
         <mxCell id="FIi98QtTblRB16goCm3a-6" edge="1" parent="1" source="FIi98QtTblRB16goCm3a-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="-hY4OvKay7_CAMQPIOxO-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FIi98QtTblRB16goCm3a-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Only if&lt;/div&gt;&lt;div&gt;Δh from the A-axis to the build platform&lt;/div&gt;&lt;div&gt;is required&lt;/div&gt;" vertex="1">
+        <mxCell id="FIi98QtTblRB16goCm3a-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Only if&lt;/div&gt;&lt;div&gt;Δh from A-axis to build platform&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;is required&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="140" x="330" y="2066.83" as="geometry" />
         </mxCell>
         <mxCell id="FIi98QtTblRB16goCm3a-20" edge="1" parent="1" source="FIi98QtTblRB16goCm3a-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yzWLUrRVBPCjE_x2O5sb-15">
@@ -269,6 +260,17 @@
         </mxCell>
         <mxCell id="FIi98QtTblRB16goCm3a-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Legend:" vertex="1">
           <mxGeometry height="30" width="60" x="620" y="2053.33" as="geometry" />
+        </mxCell>
+        <mxCell id="JWglA3OigvHA6jABu2zU-6" edge="1" parent="1" source="_VjE9AJelsqWNRG-cR2B-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="_VjE9AJelsqWNRG-cR2B-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="1000" />
+              <mxPoint x="260" y="1000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JWglA3OigvHA6jABu2zU-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Usually called AB-Motors" vertex="1">
+          <mxGeometry height="30" width="140" x="20" y="425" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
